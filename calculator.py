@@ -1,2 +1,2 @@
-print("addition,5+5")
-print("subtraction,15-5")
+print("addition,5+5=10")
+print("subtraction,15-5=10")
